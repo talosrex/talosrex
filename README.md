@@ -1,4 +1,11 @@
-## Hi there 👋
+## Aloha🌋
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning to become a developer.
+- 🥷 I’m looking to collaborate on learning coding of all kinds.
+
+- 😄 Pronouns: he/him
+
 
 <!--
 **talosrex/talosrex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
