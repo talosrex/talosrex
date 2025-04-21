@@ -1,6 +1,5 @@
 ## Aloha🌋
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning to become a developer.
 - 🥷 I’m looking to collaborate on learning coding of all kinds.
 
